@@ -3,7 +3,7 @@ data/*.parquet
 data/*.json
 data/*.pdf
 data/*.txt
-data/index/
+data/index*/
 models/
 ckpt/
 src/__pycache__/

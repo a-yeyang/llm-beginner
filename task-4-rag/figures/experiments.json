@@ -1,0 +1,90 @@
+[
+  {
+    "recall@1": 0.367,
+    "recall@3": 0.633,
+    "recall@5": 0.667,
+    "recall@10": 0.767,
+    "mrr": 0.513,
+    "chunk_size": 128,
+    "overlap": 32,
+    "reranker": false,
+    "seconds": 0.2
+  },
+  {
+    "recall@1": 0.533,
+    "recall@3": 0.733,
+    "recall@5": 0.733,
+    "recall@10": 0.833,
+    "mrr": 0.633,
+    "chunk_size": 128,
+    "overlap": 32,
+    "reranker": true,
+    "seconds": 6.4
+  },
+  {
+    "recall@1": 0.3,
+    "recall@3": 0.567,
+    "recall@5": 0.733,
+    "recall@10": 0.733,
+    "mrr": 0.444,
+    "chunk_size": 256,
+    "overlap": 64,
+    "reranker": false,
+    "seconds": 0.4
+  },
+  {
+    "recall@1": 0.6,
+    "recall@3": 0.633,
+    "recall@5": 0.8,
+    "recall@10": 0.833,
+    "mrr": 0.656,
+    "chunk_size": 256,
+    "overlap": 64,
+    "reranker": true,
+    "seconds": 9.1
+  },
+  {
+    "recall@1": 0.333,
+    "recall@3": 0.6,
+    "recall@5": 0.633,
+    "recall@10": 0.8,
+    "mrr": 0.478,
+    "chunk_size": 512,
+    "overlap": 128,
+    "reranker": false,
+    "seconds": 0.4
+  },
+  {
+    "recall@1": 0.467,
+    "recall@3": 0.767,
+    "recall@5": 0.833,
+    "recall@10": 0.867,
+    "mrr": 0.614,
+    "chunk_size": 512,
+    "overlap": 128,
+    "reranker": true,
+    "seconds": 15.2
+  },
+  {
+    "recall@1": 0.4,
+    "recall@3": 0.6,
+    "recall@5": 0.767,
+    "recall@10": 0.867,
+    "mrr": 0.553,
+    "chunk_size": 1024,
+    "overlap": 256,
+    "reranker": false,
+    "seconds": 0.4
+  },
+  {
+    "recall@1": 0.633,
+    "recall@3": 0.867,
+    "recall@5": 0.867,
+    "recall@10": 0.9,
+    "mrr": 0.749,
+    "chunk_size": 1024,
+    "overlap": 256,
+    "reranker": true,
+    "seconds": 19.6
+  }
+]

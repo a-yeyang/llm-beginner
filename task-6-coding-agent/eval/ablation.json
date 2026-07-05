@@ -1,0 +1,50 @@
+[
+  {
+    "config": "baseline(无skill无subagent)",
+    "run": 1,
+    "success": true,
+    "tool_steps": 6
+  },
+  {
+    "config": "baseline(无skill无subagent)",
+    "run": 2,
+    "success": true,
+    "tool_steps": 6
+  },
+  {
+    "config": "+Skill",
+    "run": 1,
+    "success": true,
+    "tool_steps": 4
+  },
+  {
+    "config": "+Skill",
+    "run": 2,
+    "success": true,
+    "tool_steps": 4
+  },
+  {
+    "config": "+Subagent",
+    "run": 1,
+    "success": true,
+    "tool_steps": 6
+  },
+  {
+    "config": "+Subagent",
+    "run": 2,
+    "success": true,
+    "tool_steps": 5
+  },
+  {
+    "config": "+Skill+Subagent",
+    "run": 1,
+    "success": true,
+    "tool_steps": 5
+  },
+  {
+    "config": "+Skill+Subagent",
+    "run": 2,
+    "success": true,
+    "tool_steps": 5
+  }
+]

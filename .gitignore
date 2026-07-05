@@ -10,6 +10,20 @@ __pycache__/
 # 虚拟环境
 .venv/
 venv/
+.venv-wsl/
 
 # Claude Code 工具产物（agent worktree、session 等，勿入公开仓库）
 .claude/
+
+# 密钥与本地配置 —— 永远不进 Git
+.env
+*.key
+
+# IDE / 系统
+.idea/
+.vscode/
+
+# 大文件产物（各任务目录另有自己的 .gitignore）
+*.pt
+models/
+data/cache/

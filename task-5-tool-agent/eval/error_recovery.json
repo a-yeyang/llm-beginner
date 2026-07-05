@@ -1,0 +1,65 @@
+{
+  "rate": 0.9,
+  "details": [
+    {
+      "id": 1,
+      "recovered": true,
+      "n_steps": 2,
+      "answer_preview": "(123 + 456) * 789 的结果是 456831，它有 6 位数。"
+    },
+    {
+      "id": 2,
+      "recovered": true,
+      "n_steps": 2,
+      "answer_preview": "100 以内所有质数的和是 1060。"
+    },
+    {
+      "id": 3,
+      "recovered": false,
+      "n_steps": 5,
+      "answer_preview": "在 data/agent-fixtures 目录下没有找到任何 .md 文件，总数为 0。"
+    },
+    {
+      "id": 4,
+      "recovered": true,
+      "n_steps": 2,
+      "answer_preview": "「图灵机」的发明者是英国数学家艾倫·图灵。"
+    },
+    {
+      "id": 5,
+      "recovered": true,
+      "n_steps": 7,
+      "answer_preview": "Geoffrey Hinton 出生于 1947 年，到 2026 年是 79 岁。"
+    },
+    {
+      "id": 6,
+      "recovered": true,
+      "n_steps": 2,
+      "answer_preview": "函数判断回文的结果是：'level' 是回文（True），'world' 不是回文（False）。"
+    },
+    {
+      "id": 7,
+      "recovered": true,
+      "n_steps": 2,
+      "answer_preview": "data/agent-fixtures/todo_note.md"
+    },
+    {
+      "id": 8,
+      "recovered": true,
+      "n_steps": 2,
+      "answer_preview": "sqrt(2026) 的小数点后 6 位结果是 45.011110。"
+    },
+    {
+      "id": 9,
+      "recovered": true,
+      "n_steps": 5,
+      "answer_preview": "Transformer (机器学习模型) 发表于 2017 年，到 2026 年共过了 9 年。"
+    },
+    {
+      "id": 10,
+      "recovered": true,
+      "n_steps": 3,
+      "answer_preview": "第一段写了：“这是任务五的本地文件检索测试文件。”"
+    }
+  ]
+}
